@@ -1,0 +1,24 @@
+﻿
+  GET|HEAD        / ........................................................................................................................................................... dashboard
+  GET|HEAD        user/buku/{id} ............................................................................................................. user.buku.show ΓÇ║ 
+UserController@detailBuku
+  GET|HEAD        user/dashboard .............................................................................................................. user.dashboard ΓÇ║ 
+UserController@dashboard
+  GET|HEAD        user/history .................................................................................................................... user.history ΓÇ║ 
+UserController@history
+  GET|HEAD        user/katalog .................................................................................................................... user.katalog ΓÇ║ 
+UserController@katalog
+  GET|HEAD        user/peminjaman ..................................................................................................... user.peminjaman.index ΓÇ║ 
+UserController@peminjaman
+  POST            user/peminjaman ................................................................................................ user.peminjaman.store ΓÇ║ 
+UserController@peminjamanStore
+  GET|HEAD        user/pengembalian ............................................................................................... user.pengembalian.index ΓÇ║ 
+UserController@pengembalian
+  POST            user/pengembalian/{id} ............................................................................................ user.pengembalian.store ΓÇ║ 
+UserController@kembalikan
+  GET|HEAD        user/profil ....................................................................................................................... user.profil ΓÇ║ 
+UserController@profil
+  PUT             user/profil .......................................................................................................... user.profil.update ΓÇ║ 
+UserController@profilUpdate
+
+
