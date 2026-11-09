@@ -8,11 +8,10 @@ Proyek ini dibuat sebagai bagian dari kegiatan **Uji Kompetensi Keahlian (UKK) P
 
 ## 🌐 Demo Website
 
-🔗 **Website:** https://sstokkbindd1-gif.github.io/UKK_ARGA/
-
-🔗 **Repository GitHub:** https://github.com/sstokkbindd1-gif/UKK_ARGA
-
----
+🔗 1. Link website:perpusarga.site.je
+2. Link erd :https://drive.google.com/file/d/1jbTLiEFQRLkhAE3qTZijiv7_OctKdGT_/view?usp=drive_link
+3. Link github repository :
+4. Link io
 
 ## 📖 Tentang Aplikasi
 
